@@ -1,0 +1,24 @@
+= Cyvizen: Original Equipment Manufacturer (OEM)
+:toc: macro
+:toclevels: 2
+:showtitle:
+
+
+_Cyvizen OEM_ is a complete Linux based operating system built on several Open Source technologies, including _NixOS_ with a single design goal of achieving the fulcrum point between:
+
+* _anonymity <==> privacy_
+* _creativity <==> security_
+
+While hooking into emerging Digital ID provider interfaces
+
+_Cyvizen OEM_ provides a secure, decentralised, distributed service platform, where *you* are in control of your personal data and leverages the _Cyvizen Binary_ included in this _OEM_ as the interface to these optional services.
+
+_Cyvizen OEM_ is a project of _Cyvive_ and embodies its *Scorched Earth* philosophy since the creation of Cyvizen's original prototype in 2016.
+
+toc::[]
+
+== NOTICE of redaction
+
+We, the authors of _Cyvizen OEM_ wish to thank everyone who participated in Cyvizen's open beta, it was a success because of your contributions!
+However, that being said, the scale of demand for Cyvizen, and its obligations have brought about the necessity of Cyvizen to be no suitable for Open Source distribution.
+
